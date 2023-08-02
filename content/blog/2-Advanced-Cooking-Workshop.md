@@ -1,7 +1,7 @@
 ---
-title: "The 10 Biggest Product Stories of 2019"
-date: 2019-12-24T12:58:17+06:00
-image: images/blog/blog-post-04.jpg
+title: "Advanced Cooking Workshop"
+date: 2019-12-24T13:36:06+06:00
+image: images/blog/blog-post-02.jpg
 feature_image: images/blog/blog-details-image.jpg
 author: Alexender Schoitiz
 ---
@@ -33,4 +33,5 @@ Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. 
 
 
 > Paul Rand, graphic designer
+
 
