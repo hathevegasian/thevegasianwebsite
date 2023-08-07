@@ -50,13 +50,13 @@ summarylength = 25
     send_message                  = "Send Message"
 
     [[params.contactForm.projectType]]
-      value = "gd"
+      value = "Recipes"
       title  = "Recipes"
     [[params.contactForm.projectType]]
-      value = "wd"
-      title  = "Culinary Advantures"
+      value = "Culinary Adventures"
+      title  = "Culinary Adventures"
     [[params.contactForm.projectType]]
-      value = "prd"
+      value = "Products"
       title  = "Products"
   
   # Navbar Action Button
@@ -80,8 +80,7 @@ summarylength = 25
   [params.portfolio]
     enable    = true
     title     = "NEWEST RECIPES"
-    subtitle  = "Crafting experiences and seeking to make the complex clear & beautiful."
-
+    url = "portfolio"
 
   [params.call_to_action]
     enable              = true
@@ -121,10 +120,10 @@ summarylength = 25
           url  = "https://www.instagram.com/ha.thevegasian/"
         [[params.footer.social.link]]
           name = "YouTube"
-          url  = "#"
+          url  = "https://www.youtube.com/@thevegasian"
         [[params.footer.social.link]]
           name = "TikTok"
-          url  = "#"
+          url  = "https://www.tiktok.com/@thevegasian?_t=8eaLyEEebwX&_r=1"
       # Footer Service
       [params.footer.service]
         title       = ""
