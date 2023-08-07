@@ -95,8 +95,8 @@ summarylength = 25
     [params.footer.contactInfo]
       title   = "Address"
       address = "Pelikaanstraat 54<br>1221KN, Hilversum"
-      phone   = "(+84) 6 203 321 89"
-      email   = "thevegasian@gmail.com"
+      phone   = "(+31) 6 203 321 89"
+      email   = "ha.thevegasian@gmail.com"
       # Footer Sitemap
       [params.footer.sitemap]
         title   = "Sitemap"
