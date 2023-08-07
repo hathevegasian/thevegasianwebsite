@@ -1,0 +1,226 @@
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.8.0/css/bulma.min.css">
+</head>
+
+<style>
+    @charset "UTF-8";
+
+    @media print {
+
+        .print-me,
+        .print-me * {
+            visibility: visible;
+        }
+
+        body * {
+            visibility: hidden;
+            margin: 0 !important;
+            padding: 0 !important;
+        }
+    }
+
+
+    html * {
+        font-family: 'Montserrat',
+            sans-serif
+    }
+
+    .recipe {
+        border: 1px solid #eee;
+        padding: 0;
+    }
+
+    .recipesize {
+        padding: 0;
+        max-width: 1000px;
+    }
+
+    .recipe section {
+        position: relative;
+        border-bottom: 1px solid #eee;
+        padding-left: 5rem;
+    }
+
+    .recipe__img {
+        overflow: hidden;
+        height: 250px;
+    }
+
+    .recipe__img img {
+        height: 250px;
+        -o-object-fit: cover;
+        object-fit: cover;
+    }
+
+    .recipe__share {
+        position: absolute;
+        right: 5rem;
+    }
+
+    .recipe .recipe__content {
+        padding-left: 1rem;
+        padding: 5rem;
+        font-size: 14px;
+    }
+
+    .recipe__ingredients {
+        margin-top: 1rem;
+        padding-left: 1rem;
+        font-size: 14px;
+    }
+
+    .recipe__ingredients li {
+        list-style-type: none;
+    }
+
+    .recipe__ingredients label {
+        cursor: pointer;
+    }
+
+    .recipe__ingredients label:hover {
+        color: #3298dc;
+    }
+
+    .recipe__ingredients input {
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+        position: relative;
+    }
+
+    .recipe__ingredients input::before {
+        color: #666;
+        content: "☐";
+        margin-right: 0.25rem;
+    }
+
+    .recipe__ingredients input:checked~span {
+        font-style: italic;
+        color: #666;
+        text-decoration: line-through;
+    }
+
+    .recipe__ingredients input:checked::before {
+        content: "☑";
+    }
+
+</style>
+
+<section class="section recipesize">
+    <article class="recipe box recipesize">
+        <div class="recipe__img print-me">
+            <img class="feature-image" src="{{ .Params.img | absURL }}" alt="blog-feature-image">
+        </div>
+
+        <section class="section">
+            <header class="level">
+                <div class="level-left">
+                    <div class="level-item ">
+                        <ul class="tags">
+                            {{ range $tag := split .Params.tags ", " }}
+                            <li class="tag is-uppercase">
+                                {{ $tag }}
+                            </li>
+                            {{ end }}
+                        </ul>
+                    </div>
+
+                    <!-- Share and Print-->
+                    <div class="level-right">
+                        <div class="level-item">
+                            <div class="recipe__share field has-addons recipesize">
+                                <div class="control">
+                                    <div class="button is-small" onclick="window.print();">
+                                        <span class=" icon is-small">
+                                            <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24">
+                                                <path d="M0 0h24v24H0z" fill="none" />
+                                                <path d="M19 8H5c-1.66 0-3 1.34-3 3v6h4v4h12v-4h4v-6c0-1.66-1.34-3-3-3zm-3 11H8v-5h8v5zm3-7c-.55 0-1-.45-1-1s.45-1 1-1 1 .45 1 1-.45 1-1 1zm-1-9H6v4h12V3z" />
+                                            </svg>
+                                            <path d="M0 0h24v24H0z" fill="none" />
+                                            <path d="M10 9V5l-7 7 7 7v-4.1c5 0 8.5 1.6 11 5.1-1-5-4-10-11-11z" />
+                                        </span>
+                                        <span>Print</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </header>
+
+            <div class="level-left">
+                <div class="level-item print-me">
+                    <div>
+                        <div class="heading">Preptime: {{ .Params.preptime }}
+                        </div>
+                        <div class="heading">Cook Time: {{ .Params.cooktime }}</div>
+                        <div class="heading has-text-weight-bold">Total Time: {{ .Params.totaltime }}</div>
+                        <div class="heading has-text-weight-bold">Servings: {{ .Params.servings }}</div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Body-->
+        <div class="recipe__content recipesize">
+            <div class="level">
+                <div class="level-left">
+                    <div class="level-item print-me">
+                        <div class="heading has-text-weight-bold">
+                            <div class="is-size-7">Ingredients:
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <ul class="recipe__ingredients recipesize print-me">
+                {{ range $ingredient := split .Params.ingredients "# " }}
+                <li>
+                    <label>
+                        <input type="checkbox" />
+                        <span>{{ $ingredient }}</span>
+                    </label>
+                </li>
+                {{ end }}
+            </ul><br />
+            <div class="level-left">
+                <div class="level-item print-me">
+                    <div class="heading has-text-weight-bold">
+                        <div class="is-size-7">Instructions:
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <ul class="content recipesize print-me">
+                <ol>
+                    {{ range $instruction := split .Params.instructions "# " }}
+                    <li>
+                        <span>{{ $instruction }}</span>
+                    </li>
+                    {{ end }}
+                </ol>
+            </ul><br />
+            {{ if.Params.notes }}
+            <footer class="notification is-italic">
+                <div class="level-left">
+                    <div class="level-item print-me">
+                        <div class="heading has-text-weight-bold">
+                            <div class="is-size-7">Notes:
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <ul class="content recipesize print-me">
+                    <ol>
+                        {{ range $note := split .Params.notes ", " }}
+                        <li>
+                            <span>{{ $note }}</span>
+                        </li>
+                        {{ end }}
+                    </ol>
+                </ul>
+            </footer>
+            {{ end }}
+        </div>
+    </article>
+</section>
