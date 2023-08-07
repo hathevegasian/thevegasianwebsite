@@ -13,4 +13,4 @@ Whether you're a seasoned vegan cook or a curious food lover, let's savor the fl
 
 May this brainchild bring you a lot of joy and excellent adventures with vegan Asian cuisine. WHISH YOU A WHOLEHEARTED EXPERIENCE!
 
-                            Ha - Your vegan Asian budy.
+    Ha - Your vegan Asian budy.

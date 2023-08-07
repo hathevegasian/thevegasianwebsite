@@ -44,6 +44,11 @@
             padding: 0 38px;
         }
 
+        @include mobile {
+            width: 100%;
+            padding: 10 38px;
+        }
+
         p {
             font-size: 15px;
             font-weight: 300;

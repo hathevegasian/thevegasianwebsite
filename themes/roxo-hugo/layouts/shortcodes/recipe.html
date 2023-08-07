@@ -31,15 +31,16 @@
     }
 
     .recipesize {
-        padding: 0;
+        padding: 0rem;
         max-width: 1000px;
     }
 
     .recipe section {
         position: relative;
         border-bottom: 1px solid #eee;
-        padding-left: 5rem;
+        padding-left: 2rem;
     }
+
 
     .recipe__img {
         overflow: hidden;
@@ -54,18 +55,24 @@
 
     .recipe__share {
         position: absolute;
-        right: 5rem;
+        right: 2rem;
+    }
+
+    .recipe__time {
+        margin-top: 0.5rem;
+        padding-right: 10rem;
+        font-size: 10.6px;
     }
 
     .recipe .recipe__content {
-        padding-left: 1rem;
-        padding: 5rem;
+        padding-left: 2rem;
+        padding: 2rem;
         font-size: 14px;
     }
 
     .recipe__ingredients {
         margin-top: 1rem;
-        padding-left: 1rem;
+        padding: 2rem;
         font-size: 14px;
     }
 
@@ -115,16 +122,6 @@
         <section class="section">
             <header class="level">
                 <div class="level-left">
-                    <div class="level-item ">
-                        <ul class="tags">
-                            {{ range $tag := split .Params.tags ", " }}
-                            <li class="tag is-uppercase">
-                                {{ $tag }}
-                            </li>
-                            {{ end }}
-                        </ul>
-                    </div>
-
                     <!-- Share and Print-->
                     <div class="level-right">
                         <div class="level-item">
@@ -151,11 +148,11 @@
             <div class="level-left">
                 <div class="level-item print-me">
                     <div>
-                        <div class="heading">Preptime: {{ .Params.preptime }}
+                        <div class="recipe__time is-uppercase">Preptime: {{ .Params.preptime }}
                         </div>
-                        <div class="heading">Cook Time: {{ .Params.cooktime }}</div>
-                        <div class="heading has-text-weight-bold">Total Time: {{ .Params.totaltime }}</div>
-                        <div class="heading has-text-weight-bold">Servings: {{ .Params.servings }}</div>
+                        <div class="recipe__time is-uppercase">Cook Time: {{ .Params.cooktime }}</div>
+                        <div class="recipe__time is-uppercase has-text-weight-bold">Total Time: {{ .Params.totaltime }}</div>
+                        <div class="recipe__time is-uppercase has-text-weight-bold">Servings: {{ .Params.servings }}</div>
                     </div>
                 </div>
             </div>
