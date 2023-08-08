@@ -21,4 +21,4 @@ totaltime="15 MIN"
 servings="1" 
 ingredients="1 cup sugar# 1 cup soy sauce# 1 cup water# 1/2 cup balsamic vinegar# 2 cloves garlic# 1 small piece ginger# (optional) sesame seeds" 
 instructions="Mix the sugar, soy sauce, water and balsamic vinegar in a sauce pan# Add grated garlic and ginger into the pan# Bring the sauce to boil and simmer it in about 10 minutes# Let it cool then add the sesame seeds and transfer the sauce into a containter" 
-notes="It is better to use a sanitized jar or bottle to store sauce, The final result should be between runny and thicken sauce">}}
+notes="It is better to use a sterilized jar or bottle to store sauce, The final result should be between runny and thicken sauce">}}
