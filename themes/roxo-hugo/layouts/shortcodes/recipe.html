@@ -209,7 +209,7 @@
                 </div>
                 <ul class="content recipesize print-me">
                     <ol>
-                        {{ range $note := split .Params.notes ", " }}
+                        {{ range $note := split .Params.notes "# " }}
                         <li>
                             <span>{{ $note }}</span>
                         </li>

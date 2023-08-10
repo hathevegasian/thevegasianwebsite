@@ -21,5 +21,5 @@ totaltime="15 MIN"
 servings="1" 
 ingredients="2 packages enoki mushrooms# 3 tb homemage teriyaki sauce# spring onions and sesame seeds for garnishing" 
 instructions="Chop off the roots of the mushroom and tear them apart into flat slices# Pan fry two sides of the mushrooms until golden brown# Add the sauce and cook until the mushrooms absorb most of the sauce# Garnish with spring onions and sesame seeds" 
-notes="This dish is best to served with a bowl of hot rice, It is better to  your dinner well since the mushrooms cool down quite quickly">}}
+notes="This dish is best to served with a bowl of hot rice# It is better to  your dinner well since the mushrooms cool down quite quickly">}}
 
