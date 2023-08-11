@@ -1,6 +1,6 @@
 ---
 title: "VIETNAMESE SALAD DRESSING"
-date: 2019-12-23T20:56:42+06:00
+date: 2023-08-10
 type: portfolio
 image: "images/projects/saladdressing/thumbnail_img1514.jpg"
 category: ["SAUCES"]
@@ -21,7 +21,6 @@ servings="1"
 ingredients="2 parts sugar# 1  sriracha (reduce if you cannot handle spice)# 1/2 part  sauce# 1 part lemon juice# Minced garlic and red chilies" 
 instructions="Mix all the ingredients together except garlic and red chilies in a sauce pan and bring it to boil# When the sugar is totally dissolved, turn of the heat and let the sauce cool down# Add the garlic and chillies and store the sauce in a sterilized jar up to two weeks"
 notes="">}}
-
 
 
 

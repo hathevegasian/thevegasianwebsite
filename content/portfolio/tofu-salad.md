@@ -1,9 +1,9 @@
 ---
 title: "TOFU SALAD"
-date: 2019-12-23T20:56:42+06:00
+date: 2023-08-11
 type: portfolio
 image: "images/projects/goitofu/thumbnail_img1535.jpg"
-category: ["TOFU, SALAD"]
+category: ["SALAD"]
 project_images: ["images/projects/goitofu/IMG_1540.jpg", "images/projects/goitofu/IMG_1535.jpg"]
 ---
 What sets Vietnamese salads apart from their Western counterparts? The answer is simple: herbs, herbs, and more herbs.
@@ -24,7 +24,6 @@ servings="3"
 ingredients="Fried tofu slices# Homemade Vietnamese salad dressing# 1 carrot# 1 medium kohlrabi# 1 red onion# (optional) Vietnamese coriander# regular coriander#  peanuts# fried shallots" 
 instructions="Peel then julienne the carrots and kohlrabi# Slice as thin as possible the red onion# Soak the carrots, kohlrabi, and onions in cold water for at least 20 minutes to keep them crunchy and reduce the pungentness# After the time is up, add the carrots, kohlrabi, onions, and tofu into a large mixing bowl# Add about 3tb dressing sauce and let it sit for 5 minutes# When the veggies absorbed most of the sauce, add more sauce to your liking following with the herbs# Transfer the salad into a plate and garnish it with fried shallots and crushed peanuts"
 notes="Each type of herbs will give you a slightly different result# If you cannot find Vietnamese coriander, you can replace it with mint or shiso# Replace tofu with pan fried mushrooms for a soy-free version">}}
-
 
 
 
