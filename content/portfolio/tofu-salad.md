@@ -22,7 +22,7 @@ cooktime="10 MIN"
 totaltime="35 MIN" 
 servings="3" 
 ingredients="Fried tofu slices# Homemade Vietnamese salad dressing# 1 carrot# 1 medium kohlrabi# 1 red onion# (optional) Vietnamese coriander# regular coriander#  peanuts# fried shallots" 
-instructions="Peel then julienne the carrots and kohlrabi# Slice as thin as possible the red onion# Soak the carrots, kohlrabi, and onions in cold water for at least 20 minutes to keep them crunchy and reduce the pungentness# After the time is up, add the carrots, kohlrabi, onions, and tofu into a large mixing bowl# Add about 3tb dressing sauce and let it sit for 5 minutes# When the veggies absorbed most of the sauce, add more sauce to your liking following with the herbs# Transfer the salad into a plate and garnish it with fried shallots and crushed peanuts"
+instructions="Peel then julienne the carrots and kohlrabi# Slice as thin as possible the red onion# Soak the carrots, kohlrabi, and onions in cold water for at least 20 minutes to keep them crunchy and reduce the pungentness# After the time is up, add the carrots, kohlrabi, onions, and tofu into a large mixing bowl# Add about 2tb dressing sauce and let it sit for 5 minutes# When the veggies absorbed most of the sauce, add more sauce to your liking following with the herbs# Transfer the salad into a plate and garnish it with fried shallots and crushed peanuts"
 notes="Each type of herbs will give you a slightly different result# If you cannot find Vietnamese coriander, you can replace it with mint or shiso# Replace tofu with pan fried mushrooms for a soy-free version">}}
 
 
