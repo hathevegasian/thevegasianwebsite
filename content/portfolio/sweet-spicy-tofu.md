@@ -3,7 +3,7 @@ title: "SWEET AND SPICY SILKEN TOFU"
 date: 2023-08-21
 type: portfolio
 image: "images/projects/sweetspicytofu/thumbnail_tofusweetspicy.jpg"
-category: ["tofu"]
+category: ["TOFU, STEW"]
 project_images: ["images/projects/sweetspicytofu/IMG_1679.jpg", "images/projects/sweetspicytofu/IMG_1689.jpg"]
 ---
 Tofu's adaptability is just amazing. You can toss it into all sorts of dishes – stews, stir-fries, deep-fries, and even hot pots.
