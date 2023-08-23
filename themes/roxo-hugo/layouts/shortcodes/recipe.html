@@ -72,7 +72,8 @@
 
     .recipe__ingredients {
         margin-top: 1rem;
-        padding: 2rem;
+        padding-right: 2rem;
+        padding-left: 2rem;
         font-size: 14px;
     }
 
@@ -173,15 +174,17 @@
             <ul class="recipe__ingredients recipesize print-me">
                 {{ range $ingredient := split .Params.ingredients "# " }}
                 <li>
-
                     <label>
+                        {{ if strings.Contains $ingredient "*" }}
+                        {{ $url := split $ingredient "*" }}
+                        <input type="checkbox" />
+                        <span><a href="{{ index $url 1 }}" target="_blank">{{ index $url 0 }}</a></span>
+                        {{ else }}
                         <input type="checkbox" />
                         <span>{{ $ingredient }}</span>
+                        {{ end }}
                     </label>
-
-
-                </li>
-                {{ end }}
+                    {{ end }}
             </ul><br />
             <div class="level-left">
                 <div class="level-item print-me">
@@ -194,13 +197,19 @@
             <ul class="content recipesize print-me">
                 <ol>
                     {{ range $instruction := split .Params.instructions "# " }}
+
                     <li>
+                        {{ if strings.Contains $instruction "*" }}
+                        {{ $url := split $instruction "*" }}
+                        <span><a href="{{ index $url 1 }}" target="_blank">{{ index $url 0 }}</a></span>
+                        {{ else }}
                         <span>{{ $instruction }}</span>
+                        {{ end }}
                     </li>
                     {{ end }}
                 </ol>
             </ul><br />
-            {{ if.Params.notes }}
+            {{ if .Params.notes }}
             <footer class="notification is-italic">
                 <div class="level-left">
                     <div class="level-item print-me">
@@ -214,7 +223,12 @@
                     <ol>
                         {{ range $note := split .Params.notes "# " }}
                         <li>
+                            {{ if strings.Contains $note "*" }}
+                            {{ $url := split $note "*" }}
+                            <span><a href="{{ index $url 1 }}" target="_blank">{{ index $url 0 }}</a></span>
+                            {{ else }}
                             <span>{{ $note }}</span>
+                            {{ end }}
                         </li>
                         {{ end }}
                     </ol>
