@@ -1,6 +1,6 @@
 ---
 title: "GRASS JELLY - THẠCH SƯƠNG SÁO"
-date: 2023-08-25
+date: 2023-08-28
 type: portfolio
 image: "images/projects/jelly/thumbnail_jelly.jpg"
 category: ["DESSERTS"]
