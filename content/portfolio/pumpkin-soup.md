@@ -1,6 +1,6 @@
 ---
 title: "PUMPKIN SOUP"
-date: 2023-09-26
+date: 2023-09-27
 type: portfolio
 image: "images/projects/pumpkinsoup/thumbnail_canhbido.jpg"
 category: ["SOUP"]
