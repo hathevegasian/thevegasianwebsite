@@ -22,7 +22,7 @@ preptime="30 MIN"
 cooktime="20 MIN" 
 totaltime="50 MIN" 
 servings="12 PIECES" 
-ingredients="12 betel leaves# 5g wood ear mushroom - dehydrated and sliced into small strips# 100g Beyond Meat# 1/4 tsp MSG# 1/2 tsp Maggi# 1 tb fried shallots# scallion oil and crushed peanuts for garnishing" 
+ingredients="12 betel leaves# 5g wood ear mushroom - dehydrated and sliced into small strips# 100g Beyond Meat# 1/4 tsp MSG# 1/2 tsp Maggi# 1 tb fried shallots# 1 tsp vegetable oil# scallion oil and crushed peanuts for garnishing" 
 instructions="In a mixing bowl, add wood ear mushroom strips, Beyond Meat, MSG, Maggi, fried shallot and mix them well# On a cutting board, lay down one betel leave and add about 1 tb filling on top# Fold the two edges of the leaf inward then roll to the end# Secure the roll with a toothpick# Continue rolling until you run out of ingredients# In a frying pan, heat up about 3 tb oil# Slowly add the Bò Lá Lốt rolls one by one into the pan, the edge facing down# Fry the rolls  on medium heat until the leaves become slightly crunchy when you touch it. Take out the rolls and let it sit on a kitchen towel to reduce excess fat# On a plate, place the cooked Bò Lá Lốt as shown in the photos below, add 1 tsp scallion oil and crushed peanuts on top"
 notes="">}}
 
