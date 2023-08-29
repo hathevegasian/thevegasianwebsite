@@ -1,6 +1,6 @@
 ---
 title: "FISH CAKE - CHẢ CÁ PART 1"
-date: 2023-08-31
+date: 2023-09-4
 type: portfolio
 image: "images/projects/fishcake1/thumbnail_chaca.jpg"
 category: ["MOCK MEAT"]
