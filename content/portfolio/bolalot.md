@@ -1,6 +1,6 @@
 ---
 title: "BÒ LÁ LỐT - BETEL LEAVE ROLLS"
-date: 2023-09-01
+date: 2023-08-31
 type: portfolio
 image: "images/projects/bolalot/thumbnail_bolalot.jpg"
 category: ["FINGER FOOD"]
