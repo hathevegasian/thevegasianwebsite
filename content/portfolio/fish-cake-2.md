@@ -1,6 +1,6 @@
 ---
 title: "FISH CAKE STEW- CHẢ CÁ PART 2"
-date: 2023-09-07
+date: 2023-09-06
 type: portfolio
 image: "images/projects/fishcake2/thumbnail_fishcake2.jpg"
 category: ["MOCK MEAT"]
