@@ -6,7 +6,7 @@ image: "images/projects/pumpkinsoup/thumbnail_canhbido.jpg"
 category: ["SOUP"]
 project_images: ["images/projects/pumpkinsoup/IMG_1872.jpg", "images/projects/pumpkinsoup/IMG_1876.jpg"]
 ---
-LLet's usher in the autumn months with a comforting bowl of pumpkin soup!
+Let's usher in the autumn months with a comforting bowl of pumpkin soup!
 
 In a Vietnamese household, a homemade meal typically involves freshly cooked white rice, a meat dish, a vegetable dish, and/or a soup. Our soups tend to have a slightly watery consistency, perfect for mixing into rice or sipping casually after the main course.
 
