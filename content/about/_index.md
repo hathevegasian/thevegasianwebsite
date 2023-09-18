@@ -11,6 +11,6 @@ At the vegasian, we celebrate the seamless fusion of nature and culinary artistr
 
 Whether you're a seasoned vegan cook or a curious food lover, let's savor the flavors and values that define vegan Asian cuisine together!
 
-May this brainchild bring you a lot of joy and excellent adventures with vegan Asian cuisine. WHISH YOU A WHOLEHEARTED EXPERIENCE!
+May this brainchild bring you a lot of joy and excellent adventures with vegan Asian cuisine. WISH YOU A WHOLEHEARTED EXPERIENCE!
 
     Ha - Your vegan Asian budy.
