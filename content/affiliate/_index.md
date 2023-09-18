@@ -1,5 +1,5 @@
 ---
-title: "Affiliate"
+title: "Utensils"
 date: 2019-12-23T16:48:28+06:00
-description: "Explore my Affiliate Links section for top recommendations on must-have cooking utensils!"
+description: "Discover my must-have cooking utensils recommendations below!"
 ---
