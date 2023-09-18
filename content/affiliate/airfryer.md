@@ -2,7 +2,7 @@
 title: "PHILIPS AIR FRYER"
 date: 2023-09-05
 type: portfolio
-image: "images/affiliate/thumbnail_airfryer.jpg"
+image: "images/affiliate/thumbnail_airfryer.png"
 category: ["MACHINES"]
 project_images: ["images/affiliate/IMG_2086.jpg", "images/affiliate/IMG_2092.jpg"]
 ---
