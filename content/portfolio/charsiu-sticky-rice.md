@@ -16,13 +16,13 @@ Let's jump right in!
 
 {{< recipe 
 img="images/projects/xoixaxiu/header_xoixaxiu.jpg"
-preptime="10 MIN" 
-cooktime="10 MIN" 
-totaltime="20 MIN" 
+preptime="5 MIN" 
+cooktime="40 MIN" 
+totaltime="45 MIN" 
 servings="1" 
-ingredients="!The rice:# 1 cup glutinuos rice# 1 cup water# 1 tsp salt# 1 tsp cooking oil# !The charsiu:# 250g king oyster mushroom# 1 tsp sea salt# 1/4 cup vinegar# 1/4 cup sugar" 
-instructions="In a sauce pan, mix the water with salt, vinegar, sugar and bring it to boil# Once boiled, cook the broth for 5 minutes then turn off the heat and let it cool down totally# In a salad bowl, add the bean sprouts, carrot, and chives together then mix them gently with your hand# Transfer the veggies to a sterilized jar layer by layer# Add the shallot and pepper slices between the layers until you run out of it# Pour in the cooled down broth until the veggies are totally covered#  Close the jar with a lid and let the jar sit on your counter top for about a day# After a day, transfer the jar to the fridge to stop the fermentation process"
-notes="Always keep the jar in the fridge after use# You should only use a clean pair of chopsticks/material to take a small part out for usage, keep the rest clean in the fridge# If you like to have a more sour version of Dưa Giá then let it sit longer on the counter top before transfer them to the fridge">}}
+ingredients="Fried shallot and scallion oil to garnish# !The rice:# 1 cup glutinuos rice# 1 cup water# 1 tsp salt# 1 tb cooking oil# !The charsiu:# 4 large pieces king oyster mushroom# 1 tb charsiu powder# 1 tb Lee Kum Kee mushroom sauce# 2 tsp Maggi# 1 to 2 tb cooking oil" 
+instructions="!The rice:# Wash the rice well and remove the excess water using a colander# Add the strained rice into the rice cooker then add the water, salt and oil# Mix the rice well and cook them normally in the rice cooker like how you always do with regular rice# !The charsiu:# Mix the charsiu powder, LKK mushroom sauce, Maggi and oil well in a bowl then add the mushroom into the bowl# Use a brush to evenly spread the sauce all over the mushroom# Let the mushroom sit for at least 20 minutes# When the time is up, fry the mushroom with a tiny bit of oil in a frying pan until the mushroom is cooked through# Slice the mushrooms into pieces then serve it with the sticky rice# Garnish the dish with fried shallots and scallion oil"
+notes="Make sure that you remove all the water before transfering the rice to the rice cooker otherwise your sticky rice might be mushy# You should adjust the amount of sauces to mix with the mushroom since every charsiu powder brand will taste differently. You can mix the sauce, cook them in a pan to taste first then marinate the mushroom later">}}
 
 
 
