@@ -2,9 +2,9 @@
 title: "PHILIPS AIR FRYER"
 date: 2023-09-05
 type: portfolio
-image: "images/affiliate/thumbnail_airfryer.png"
+image: "images/affiliate/airfryer/airfryer3.jpg"
 category: ["MACHINES"]
-project_images: ["images/affiliate/IMG_2086.jpg", "images/affiliate/IMG_2092.jpg"]
+project_images: ["images/affiliate/airfryer/airfryer2.jpg", "images/affiliate/airfryer/airfryer3.jpg"]
 ---
 
 I used to ask a silly question: "If you already have an oven at home, why invest in an air fryer? Don't they serve the same purpose?"
@@ -15,4 +15,4 @@ My husband Thomas and I have embraced the convenience of our trusty Philips air 
 
 In my view, virtually any brand of air fryer will serve you well. While pricier models may offer faster cooking times, you can generally find one that aligns with your budget.
 
-If you happen to be interested in the Philips air fryer, feel free to check out my affiliate [here](https://partner.bol.com/click/click?p=2&t=url&s=1337769&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fnl%2Fs%2Fphilips%2Bairfryer%2F&name=Philips%20Airfryer).
+If you happen to be interested in the Philips air fryer, feel free to check out my affiliate link [here](https://partner.bol.com/click/click?p=2&t=url&s=1337769&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fnl%2Fs%2Fphilips%2Bairfryer%2F&name=Philips%20Airfryer).
