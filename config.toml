@@ -80,12 +80,18 @@ summarylength = 25
     primary_button_url    = "portfolio"
     secondary_button      = "Join Culinary Adventures"
     secondary_button_url  = "blog"
-
+    
+    
   [params.portfolio]
     enable    = true
     title     = "NEWEST RECIPES"
     url = "portfolio"
-
+    
+[params.data.team]
+    enable    = true
+    title     = "NEWEST RECIPES"
+    url = "team"
+    
   [params.call_to_action]
     enable              = true
     background_image    = "images/backgrounds/cta-background.jpg"
