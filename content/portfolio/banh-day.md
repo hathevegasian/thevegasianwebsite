@@ -3,7 +3,7 @@ title: "BÁNH DÀY - STICKY RICE SNACK"
 date: 2023-11-06
 type: portfolio
 image: "images/projects/banhday/thumbnail_banhday.png"
-category: ["FERMENTED"]
+category: ["SNACK"]
 project_images: ["images/projects/banhday/IMG_0181.png", "images/projects/banhday/IMG_0182.png"]
 ---
 If you're a fan of mochi, you're likely to adore this dish. Bánh Dày is a popular Vietnamese street food crafted from glutinous rice flour. Its delightful chewy texture, combined with the umami from Chả Lụa (Vietnamese cold sausage) and the seasoning of salt and pepper, makes it an addictive snack.
