@@ -6,14 +6,11 @@ image: "images/projects/banhday/thumbnail_banhday.png"
 category: ["FERMENTED"]
 project_images: ["images/projects/banhday/IMG_0181.png", "images/projects/banhday/IMG_0182.png"]
 ---
-If you are a fan of mochi, you will probably like this dish. Bánh Dày is a Vietnamese street food made from glutinous rice flour. Its chewy texture in combine with the umami from Chả Lụa (Viet cold sausage) and the salt pepper seasoning make its an addictive snack.
+If you're a fan of mochi, you're likely to adore this dish. Bánh Dày is a popular Vietnamese street food crafted from glutinous rice flour. Its delightful chewy texture, combined with the umami from Chả Lụa (Vietnamese cold sausage) and the seasoning of salt and pepper, makes it an addictive snack.
 
-It's extremely easy to make but you need a lot of patient to wait for them cooled down totally before digging in.
+It's incredibly easy to make, but you'll need to exercise some patience and allow them to cool down completely before digging in. However, I promise you, the wait will be worth it because you're in for the best snack ever!
 
-But it will be a fun process, trust me! Cause then you will know that you are about to have the best snack ever!
-
-Let's jump right into the recipe!
-
+Let's dive right into the recipe!
 {{< recipe 
 img="images/projects/banhday/header_banhday.png"
 preptime="5 MIN" 
